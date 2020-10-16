@@ -1,0 +1,13 @@
+C:\Users\7319d\source\repos\mathFomula\mathFomula\bin\Debug\netcoreapp3.1\mathFomula.exe
+C:\Users\7319d\source\repos\mathFomula\mathFomula\bin\Debug\netcoreapp3.1\mathFomula.deps.json
+C:\Users\7319d\source\repos\mathFomula\mathFomula\bin\Debug\netcoreapp3.1\mathFomula.runtimeconfig.json
+C:\Users\7319d\source\repos\mathFomula\mathFomula\bin\Debug\netcoreapp3.1\mathFomula.runtimeconfig.dev.json
+C:\Users\7319d\source\repos\mathFomula\mathFomula\bin\Debug\netcoreapp3.1\mathFomula.dll
+C:\Users\7319d\source\repos\mathFomula\mathFomula\bin\Debug\netcoreapp3.1\mathFomula.pdb
+C:\Users\7319d\source\repos\mathFomula\mathFomula\obj\Debug\netcoreapp3.1\mathFomula.csprojAssemblyReference.cache
+C:\Users\7319d\source\repos\mathFomula\mathFomula\obj\Debug\netcoreapp3.1\mathFomula.AssemblyInfoInputs.cache
+C:\Users\7319d\source\repos\mathFomula\mathFomula\obj\Debug\netcoreapp3.1\mathFomula.AssemblyInfo.cs
+C:\Users\7319d\source\repos\mathFomula\mathFomula\obj\Debug\netcoreapp3.1\mathFomula.csproj.CoreCompileInputs.cache
+C:\Users\7319d\source\repos\mathFomula\mathFomula\obj\Debug\netcoreapp3.1\mathFomula.dll
+C:\Users\7319d\source\repos\mathFomula\mathFomula\obj\Debug\netcoreapp3.1\mathFomula.pdb
+C:\Users\7319d\source\repos\mathFomula\mathFomula\obj\Debug\netcoreapp3.1\mathFomula.genruntimeconfig.cache

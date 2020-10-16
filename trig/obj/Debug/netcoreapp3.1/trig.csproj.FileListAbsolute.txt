@@ -1,0 +1,13 @@
+C:\Users\7319d\source\repos\mathFomula\trig\bin\Debug\netcoreapp3.1\trig.exe
+C:\Users\7319d\source\repos\mathFomula\trig\bin\Debug\netcoreapp3.1\trig.deps.json
+C:\Users\7319d\source\repos\mathFomula\trig\bin\Debug\netcoreapp3.1\trig.runtimeconfig.json
+C:\Users\7319d\source\repos\mathFomula\trig\bin\Debug\netcoreapp3.1\trig.runtimeconfig.dev.json
+C:\Users\7319d\source\repos\mathFomula\trig\bin\Debug\netcoreapp3.1\trig.dll
+C:\Users\7319d\source\repos\mathFomula\trig\bin\Debug\netcoreapp3.1\trig.pdb
+C:\Users\7319d\source\repos\mathFomula\trig\obj\Debug\netcoreapp3.1\trig.csprojAssemblyReference.cache
+C:\Users\7319d\source\repos\mathFomula\trig\obj\Debug\netcoreapp3.1\trig.AssemblyInfoInputs.cache
+C:\Users\7319d\source\repos\mathFomula\trig\obj\Debug\netcoreapp3.1\trig.AssemblyInfo.cs
+C:\Users\7319d\source\repos\mathFomula\trig\obj\Debug\netcoreapp3.1\trig.csproj.CoreCompileInputs.cache
+C:\Users\7319d\source\repos\mathFomula\trig\obj\Debug\netcoreapp3.1\trig.dll
+C:\Users\7319d\source\repos\mathFomula\trig\obj\Debug\netcoreapp3.1\trig.pdb
+C:\Users\7319d\source\repos\mathFomula\trig\obj\Debug\netcoreapp3.1\trig.genruntimeconfig.cache
